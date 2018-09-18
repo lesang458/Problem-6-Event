@@ -62,5 +62,7 @@
         android:layout_gravity="center"
         android:text="Tổng 2 số"
         android:layout_margin="5dp"
+            
+         // Dành cho trường hợp OnClick   
         android:onClick="Tong"/>
 </LinearLayout>
